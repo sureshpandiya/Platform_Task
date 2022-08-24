@@ -8,7 +8,7 @@
 }
 .search_icon{
     background: orangered;
-    right: 37px;
+    right: 36px;
     width: 40px;
     height: 38px;
     border-radius: 0px 6px 6px 0px;
@@ -21,7 +21,8 @@
     margin: 24px;
 }
 .fa{
-    display: flex;
+    display: flex !important;
+    align-items: center;
     position: relative;
     top: 10px;
     margin-left: 10px;
